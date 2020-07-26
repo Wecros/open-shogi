@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://img/shogisquare.png" type="Texture" id=1]
+
+[node name="Square" type="TextureRect"]
+margin_right = 60.0
+margin_bottom = 60.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = ExtResource( 1 )
+expand = true
