@@ -1,0 +1,3 @@
+[submodule "gnushogi"]
+	path = gnushogi
+	url = git@github.com:ydirson/gnushogi.git
